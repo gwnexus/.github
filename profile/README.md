@@ -24,7 +24,7 @@ Most AI agent setups lose context when a session ends, a window compacts, or a m
 |------|----------|-------------|
 | [nexus-mcp](https://github.com/gwnexus/nexus-mcp) | TypeScript | MCP server — exposes all Nexus tools to your agent |
 | [nexus-cli](https://github.com/gwnexus/nexus-cli) | Rust | `nexus init` / `pull` / `run` / `shadow` — local workspace management |
-| [nexus-oc-plugins](https://github.com/gwnexus/nexus-oc-plugins) | TypeScript | OpenCode plugins: session compaction, cost tracking, context compression |
+| [nexus-runtime-plugins](https://github.com/gwnexus/nexus-runtime-plugins) | TypeScript | Claude-CLI/OpenCode plugins: session compaction, cost tracking, context compression ... |
 | [nexus-docs](https://github.com/gwnexus/nexus-docs) | MDX | Documentation site |
 | [nexus-link](https://github.com/gwnexus/nexus-link) | Rust | Hardware telemetry agent — local node registration and pulse |
 
