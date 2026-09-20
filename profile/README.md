@@ -14,6 +14,7 @@ Most AI agent setups lose context when a session ends, a window compacts, or a m
 - **Decision records** — ADRs with a full review lifecycle, linked to the sessions that produced them
 - **Dispatch system** — typed, routed work items between agents, humans, and projects
 - **Project knowledge** — ingested documents, research notes, and planning items scoped per project
+- **AI Gateway (BYOK)** — bring-your-own-key routing across model providers, with per-project provider bindings and cost attribution
 - **MCP-native** — the entire surface is exposed as Model Context Protocol tools, usable from any MCP-compatible agent
 
 ---
